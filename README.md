@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alesiolopez
 - 👀 I’m interested in: Web Development
-- 🌱 I’m currently learning: JavaScript Development
+- 🌱 I’m currently learning: ReactJS
 - 💞️ I’m looking to collaborate on: in whatever is necessary
 - 📫 How to reach me: with the email alesiolopez26@gmail.com
 
